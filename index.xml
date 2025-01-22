@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>jingle-bells-3</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="jingle-bells-1"/>
   <readme>
-    <ru>8b7e7b9e6cd620973542af1b02f5dc576e0499918ae2115e4579d5c2daaa33e2</ru>
-    <en>10383a49008baec638d372aa2a3436f8a211271caccd53abe49f34f072c93e76</en>
+    <ru>3626f372b9d8ae8d9beb0e288f4a49b0096f617f359bc714d06f51f32360c237</ru>
+    <en>2931ba85731461bf000140216b8dad5ca63385d321d5ed2b10e7690bbc990baa</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
